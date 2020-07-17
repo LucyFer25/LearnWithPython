@@ -207,6 +207,7 @@ nav{
 	transition: 0.5s;
 	transform: scale(0.8);
 	cursor: pointer;
+	box-shadow: 10px 10px 12px black;
 
 
 }

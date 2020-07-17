@@ -17,7 +17,7 @@ function startSection(){
 
 }
 
-var button = document.querySelector(".start-button");
+const button = document.querySelector(".start-button");
 button.addEventListener("click", startSection, false);
 
 
