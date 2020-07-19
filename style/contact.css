@@ -1,0 +1,33 @@
+.kontakt-title{
+  height: 300px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top:91px;
+  margin-bottom: 60px;
+  background-image: url("../imgs/kontakt-title.jpg");
+  background-position: center;
+}
+.kontakt-title-text{
+  font-size: 40px;
+  color: white;
+  font-family: 'Righteous', cursive;
+}
+.kontakt-form{
+  margin-bottom: 100px;
+}
+.kontakt-element{
+  /* border:5px solid black; */
+}
+.kontakt-form-inputs form{
+  /* border:2px solid #07da63; */
+  font-family: 'Righteous', cursive;
+  color:white;
+
+}
+.kontakt-form-inputs{
+  background: #343a40;
+  border-radius: 3px;
+  box-shadow: 0 0  15px #000;
+}
