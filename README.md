@@ -1,2 +1,2 @@
 # LearnWithPython
-Website project about python.
+Simple website project about learning python.
